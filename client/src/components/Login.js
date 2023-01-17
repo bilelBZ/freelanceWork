@@ -80,17 +80,17 @@ function Login() {
                 </div>
               </div>
             </div>
-            {/* end card-body */}
+           
           </div>
-          {/* end card */}
+         
           <p className="text-muted text-center mt-3 mb-0">
-            Don't have an account? <a className="text-primary ml-1">register</a>
+            AMS TN tbadlet <a className="text-primary ml-1">register</a>
           </p>
-          {/* end row */}
+          
         </div>
-        {/* end col */}
+        
       </div>
-      {/* Row */}
+      
     </div>
   );
 }
